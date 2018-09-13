@@ -1,4 +1,4 @@
-# Udacity Project3 Traffic Sign Detector
+# Udacity Traffic Sign Detector
 
 ## Project: Build a Traffic Sign Recognition Neural Network
 
